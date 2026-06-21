@@ -103,7 +103,7 @@ yours:     10.0.16.0/20      10.0.0.32/27  10.0.0.8/29   10.0.4.0/22
           10.0.31.255        10.0.0.63       10.0.0.15     10.0.7.255 
 NOTyours: 10.0.32.0/20      10.0.0.64/27   10.0.0.16/29   10.0.8.0/22
 
-task4: DESING IMPLEMENTATION AND CONFIGURATION:
+task4: DESIGN IMPLEMENTATION AND CONFIGURATION:
 @D1:
 config t
 vlan 3
